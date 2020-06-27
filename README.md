@@ -3,6 +3,8 @@ ARC's augmented reality filters for Facebook and Instagram, creted on Spark AR b
 
 ---
 
+![Spark AR project](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/137/817/datas/gallery.jpg)
+
 ### _**Inspiration**_
 
 Fashion as we know it has become obsolete. The Covid-19 pandemic has demonstrated how unsustainable the classic fashion business model is. With digital, nothing physical is ever needed, only data. Design can be distributed across a multitude of designs and people will be able to directly access and adopt the designs of those they prefer to patronize. Making a statement will become both more accessible and less impactful to the environment as when fashion changes the design can be changed without having to sent a garment to landfill.
