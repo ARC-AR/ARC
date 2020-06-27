@@ -19,6 +19,9 @@ We were inspired by Lego and how it has a system. Fashion needs a system. Fashio
 
 Using marker recognition to place AR filters atop a t-shirt to give the wearer different options to be styled in without the need to buy anything physical. There are 10 filters to choose from that can be used on Facebook and Instagram.
 
+![Demo T-shirt](https://i.ibb.co/r4DfPqT/output-onlinepngtools-1.png)
+Demo t-shirt with a logo that serves as a tracker for the filter. All art was made by Dries Bates.
+
 ### _**How we built it**_
 
 Using hand-drawn illustrations and using Illustrator to create unique artwork, as well as using other AR tits to show the potential in a shared network.
